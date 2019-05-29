@@ -1,0 +1,15 @@
+{
+  "name": "@rgeraldporter/presentation-monads",
+  "version": "1.0.0",
+  "description": "Presentation on Monads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx remarker"
+  },
+  "author": "Rob Porter <rob@weeverapps.com>",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "remarker": "1.9.4"
+  }
+}
